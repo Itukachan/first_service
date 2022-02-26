@@ -6,8 +6,11 @@
 <title>Top</title>
 </head>
 <body>
-<form action="menu">
-<input type="submit" value="start">
+<form action="login">
+<input type="submit" value="ログイン">
 </form>
+<a href="/userInsert">新規会員登録</a>
+<br>
+<a href="/menu">ログインせずにはじめる</a>   
 </body>
 </html>
